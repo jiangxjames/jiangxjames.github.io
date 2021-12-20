@@ -11,6 +11,10 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	width: auto;
+	max-width: 1000px;
+	min-width: 600px;
+	word-wrap: normal;
 }
 
 #layout-menu {
@@ -39,6 +43,9 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+    width: auto;
+    max-width: 1000px;
+    min-width: 600px;
 }
 
 #layout-menu a {
