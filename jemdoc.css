@@ -13,7 +13,7 @@ body {
 	margin: 0;
 	width: auto;
 	max-width: 1000px;
-	min-width: 600px;
+	/*min-width: 600px;*/
 	word-wrap: normal;
 }
 
@@ -23,7 +23,7 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.0em;
+	font-size: 1.2em;
 	width: auto;
 	white-space: nowrap;
     text-align: left;
@@ -45,7 +45,7 @@ body {
     vertical-align: top;
     width: auto;
     max-width: 1000px;
-    min-width: 600px;
+    /*min-width: 600px;*/
 }
 
 #layout-menu a {
@@ -65,6 +65,8 @@ pre, tt {
 a, a > tt {
 	color: #224b8d;
 	text-decoration: none;
+	target-name:new;
+	target-new:tab;
 }
 
 a:hover {
@@ -121,7 +123,6 @@ em {
 strong {
 	font-weight: bold;
 }
-
 
 h1, h2, h3 {
 	color: #527bbd;
@@ -205,9 +206,16 @@ dd > *:first-child {
 
 ul {
 	list-style-position: outside;
-	list-style-type: square;
+	list-style-type: "\2022\ \ ";
 }
 
+/*ul {list-style: none}
+
+li::before {content: "\2022"; color: black;
+  /*display: inline-block; width: 1em;*/
+  /*margin-left: -1em*/
+}
+*/
 p + ul, p + ol {
 	margin-top: -0.5em;
 }
