@@ -5,16 +5,14 @@ See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Goo
 
 == Preprints
 . *X. Jiang*, and L. Vandenberghe.Bregman three-operator splitting methods. In preparation.
-. *X. Jiang*, K. Cheng, S. Jiang, and Y. Sun. [publications/chordal-gcn.pdf Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks.]
+. *X. Jiang*, K. Cheng, S. Jiang, and Y. Sun. [publications/chordal-gcn.pdf Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks]. 2019.
 
 == Papers
 
-. *X. Jiang*, and L. Vandenberghe. [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming]. /Computational Optimization and Applications/, 2022. \[[publications/sdp-bregman.pdf preprint]\]
+. *X. Jiang*, and L. Vandenberghe. [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming]. /Computational Optimization and Applications/, 2022. \[[https://link.springer.com/article/10.1007/s10589-021-00339-7 doi]\] \[[publications/sdp-bregman.pdf preprint]\]
 . J. Xu, Y. Sun, *X. Jiang*, Y. Wang, C. Wang, J. Lu, and Y. Yang. [publications/stack.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs]. In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022.
 . J. Xu, Y. Yang, J. Chen, *X. Jiang*, C. Wang, J. Lu, and Y. Yang. [publications/robustgraph.pdf Unsupervised adversarially robust representation learning on graphs]. In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022.
 . Z. Jiao\*, Z. Zhang\*, *X. Jiang*, D. Han, S.-C. Zhu, Y. Zhu, and H. Liu. [publications/open-door.pdf Consolidating kinematic models to promote coordinated mobile manipulations]. In /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2021.
-
-#. *X. Jiang*, and L. Vandenberghe. Bregman primal-dual first-order method and application to sparse semidefinite programming. /Computational Optimization and Applications/, 2022. \[[https://link.springer.com/article/10.1007/s10589-021-00339-7 doi]\] \[[publications/sdp-bregman.pdf pdf]\]
 
 == Thesis
 
