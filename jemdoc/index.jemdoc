@@ -1,10 +1,26 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 = Xin Jiang
 
-== Research Interests
+~~~
+{}{img_left}{misc/bio.jpg}{alt text}{238}{300px}{}
+Xin Jiang \n
+Ph.D. Candidate \n
+[https://www.ee.ucla.edu/ Samueli Electrical and Computer Engineering Department] \n
+[https://www.ucla.edu/ University of California, Los Angeles]
 
-XXX
+Email: jiangxjames \[AT\] ucla \[DOT\] edu
+
+[https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar] \M [https://www.semanticscholar.org/author/2110310332 Semantic Scholar] \M [https://orcid.org/my-orcid?orcid=0000-0003-1231-8529 ORCID]
+~~~
+
+~~~
+I am currently on the 2021-2022 academic job market and looking for faculty or postdoc position openings in ECE\/OR\/Applied Math\/Data Science and related fields. Please feel free to contact me for any opportunities.
+~~~
 
 == Brief Biography
 
-XXX
+I am a graduating Ph.D. candidate in Electrical and Computer Engineering at UCLA, under the supervision of [http://www.seas.ucla.edu/~vandenbe/index.html Prof. Lieven Vandenberghe]. I hold an M.S. degree in Electrical and Computer Engineering at UCLA. Prior to that, I received Bachelor of Engineering degree in Electrical and Electronics Engineering from the University of Hong Kong.
+
+== Research Interests
+
+My research interests broadly include theory and algorithms for convex optimization, especially large-scale semidefinite programming. I design, analyze, and implement efficient and scalable algorithms for various applications, including signal processing, machine learning, and graph-related problems.
