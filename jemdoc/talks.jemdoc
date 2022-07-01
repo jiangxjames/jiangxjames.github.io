@@ -1,11 +1,9 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
-- [talks/2107-europt.pdf Primal-dual proximal methods with Bregman distances]
+- Primal-dual proximal methods with Bregman distances
     -- SIAM Conference on Mathematics of Data Science, September 2022.
+- [talks/2011-informs.pdf Bregman primal-dual first-order method and application to sparse semidefinite optimization]
     -- EUROPT Workshop on Continuous Optimization, July 2021.
     -- SIAM Conference on Optimization (OP21), July 2021.
-- [talks/2011-informs.pdf Bregman primal-dual first-order method and application to sparse semidefinite optimization]
     -- INFORMS Annual Meeting, November 2020.
-
-
