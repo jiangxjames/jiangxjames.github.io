@@ -1,12 +1,21 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
+- [talks/2310-informs.pdf On the almost-sure convergence of a stochastic SQP method]
+    -- INFORMS Annual Meeting, Phoenix, AZ, October 2023.
+
+- [talks/2308-mopta.pdf A globally convergent difference-of-convex algorithmic framework]
+    -- Modeling and Optimization: Theory and Applications (MOPTA), Bethlehem, PA, Auguest 2023.
+    -- SIAM Conference on Optimization (OP23), Seattle, WA, May 2023.
+    -- 57th Annual Conference on Information Sciences and Systems, Baltimore, MD, March 2023.
+
 - Primal-dual proximal methods with Bregman distances
     -- Optimal Transport and Mean Field Games Seminar at University of South Carolina, Novemeber 2022. (invited by [https://people.math.sc.edu/wuchen/index.html Wuchen Li])
     -- Optimization and Data Science Seminar, UCSD, October 2022. (invited by [https://mathweb.ucsd.edu/~njw/ Jiawang Nie] and [https://zhengy09.github.io/ Yang Zheng])
     -- Department of Mathematics, UCLA, September 2022. (invited by [https://www.math.ucla.edu/~sjo/ Stanley Osher])
-    -- SIAM Conference on Mathematics of Data Science, September 2022.
+    -- SIAM Conference on Mathematics of Data Science, San Diego, CA, September 2022.
+
 - [talks/2011-informs.pdf Bregman primal-dual first-order method and application to sparse semidefinite optimization]
-    -- EUROPT Workshop on Continuous Optimization, July 2021.
+    -- EUROPT Workshop on Continuous Optimization, Toulouse, France, July 2021.
     -- SIAM Conference on Optimization (OP21), July 2021.
     -- INFORMS Annual Meeting, November 2020.
