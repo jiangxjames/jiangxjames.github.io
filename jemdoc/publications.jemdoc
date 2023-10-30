@@ -19,7 +19,7 @@ Preprint, 2019.
 
 == Papers
 . [publications/better-w-less.pdf Better with less: A data-active perspective on pre-training graph neural networks] \n
-J. Xu, R. Huang, *X. Jiang*, Y. Cao, C. Yang, C. Wang, and Y. Yang. \n
+J. Xu, R. Huang, *X. Jiang*, Y. Cao, C. Yang, C. Wang, and Y. Yang \n
 In /Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS)/, 2023. \[[https://github.com/galina0217/APT code]\]
 . [https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations] \n
 *X. Jiang*, Y. Sun, M. S. Andersen, and L. Vandenberghe \n

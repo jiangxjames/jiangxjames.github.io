@@ -1,0 +1,82 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research overview
+
+My research is rooted in the *mathematical foundations of data science*, with primary focuses on *theory and algorithms for large-scale optimization problems* from engineering and data sciences and *machine learning for graphical data*. Most of my research is in one of the following directions.
+. *First-order methods for large-scale systems* \n
+I design, analyze and implement proximal first-order methods for large-scale optimization problems.
+. *Nonlinear and nonconvex optimization with benign structure* \n
+I try to identify interesting problem and data structures and design efficient algorithms for these problems.
+. *Stochastic constrained optimization* \n
+For smooth nonlinear optimization problems, I study stochastic-gradient-based algorithms that can handle deterministic constraints.
+. *Distributed and decentralized optimization* \n I study topology design in decentralized optimization and manage the trade-off between communication costs and convergence rate.
+. *Machine learning for graphical data* \n
+I aim to build data-centric and robust graph representation models, especially with fairness and privacy concerns.
+
+= Proximal methods with Bregman distances
+
+Proximal methods have become a standard tool for solving nonsmooth, constrained, large-scale or distributed optimization probelms. To further improve the efficiency in computation of proximal operators, I am particularly interested in generalized proximal operators based on Bregman distances. Carefully designed Bregman proximal operators can better match the structure of the problem, thus improving the convergence rate of the proximal algorithms. A Bregman proximal operator can also be easier to compute than its Euclidean counterpart, thereby reducing the per-iteration complexity of a proximal algorithm.
+
+~~~
+{}{img_left}{research/breg-3op.jpg}{alt text}{850px}{230px}{}
+~~~
+
+Selected publications
+- [https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf Bregman three-operator splitting methods] \n
+*X. Jiang*, and L. Vandenberghe, 2023
+- [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
+*X. Jiang*, and L. Vandenberghe, 2022
+
+= Structured nonlinear and nonconvex optimization
+
+Exploiting problem and data structure is important in both convex and nonconvex optimization. Convex conic optimization, for example, is the basis for general-purpose solvers as well as an important modeling tool for various applications. On the other hand, for certain nonconvex optimization problems, specific problem structure could be leveraged to find a global optimum. My research in this direction exploits interesting structures in the positive semidefinite (PSD) matrix cone, the monotone cone, difference-of-convex (DC) programming, etc.
+
+~~~
+{}{img_left}{research/minrank.jpg}{alt text}{800px}{350px}{}
+~~~
+
+Selected publications:
+- [publications/dcprox.pdf A globally convergent difference-of-convex algorithmic framework and application to log-determinant optimization problems] \n
+C. Yao, and *X. Jiang*, 2023
+- [https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations] \n
+*X. Jiang*, Y. Sun, M. S. Andersen, and L. Vandenberghe, 2023
+- [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
+*X. Jiang*, and L. Vandenberghe, 2022
+
+= Stochastic constrained optimization
+
+My research focuses on the design, analysis and implementation of efficient and reliable algorithms for solving large-scale nonlinear optimization problems, especially when only stochastic estimates of objective gradients (rather than true gradients) are accessible.
+~~~
+{}{img_left}{research/sqp-analysis.jpg}{alt text}{800px}{250px}{}
+~~~
+
+Selected publications:
+- [publications/sqp-analysis.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
+F. E. Curtis, *X. Jiang*, and Q. Wang, 2023
+
+= Distributed and decentralized optimization
+
+Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.
+
+~~~
+{}{img_left}{research/hypercuboid.jpg}{alt text}{800px}{175px}{}
+~~~
+
+Selected publications:
+- Graphs with finite-time consensus and their applications in gradient tracking \n
+E. D. H. Nguyen, *X. Jiang*, B. Cheng, and C. A. Uribe \n
+
+= Machine learning for graphical data
+
+My research in this direction aims at building a data-centric, scalable, and robust graph representation model. My recent research interests involve graph representation models with fairness and privacy concerns.
+
+~~~
+{}{img_left}{research/apt.jpg}{alt text}{800px}{450px}{}
+~~~
+
+Selected publications:
+- [publications/better-w-less.pdf Better with less: A data-active perspective on pre-training graph neural networks] \[NeurIPS'23\] \n
+J. Xu, R. Huang, *X. Jiang*, Y. Cao, C. Yang, C. Wang, and Y. Yang \n
+- [publications/stack.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \[AAAI'22\] \n
+J. Xu, Y. Sun, *X. Jiang*, Y. Wang, C. Wang, J. Lu, and Y. Yang \n
+- [publications/robustgraph.pdf Unsupervised adversarially robust representation learning on graphs] \[AAAI'22\] \n
+J. Xu, Y. Yang, J. Chen, *X. Jiang*, C. Wang, J. Lu, and Y. Yang \n
