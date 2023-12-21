@@ -18,9 +18,12 @@ Preprint, 2023. \[[https://arxiv.org/abs/2306.02001 arXiv]\]
 Preprint, 2019.
 
 == Papers
-. [publications/better-w-less.pdf Better with less: A data-active perspective on pre-training graph neural networks] \n
+. [publications/task-sim-aaai24.pdf Measuring task similarity and its implication in fine-tuning graph neural networks] \n
+R. Huang, J. Xu, *X. Jiang*, C. Pan, Z. Yang, C. Wang, Y. Yang \n
+In /Proceedings of the 38th Conference on Artificial Intelligence (AAAI)/, 2024. \[[https://github.com/zjunet/Bridge-Tune code]\]
+. [publications/better-w-less-neurips23.pdf Better with less: A data-active perspective on pre-training graph neural networks] \n
 J. Xu, R. Huang, *X. Jiang*, Y. Cao, C. Yang, C. Wang, and Y. Yang \n
-In /Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS)/, 2023. \[[https://github.com/galina0217/APT code]\]
+In /Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS)/, 2023. \[[https://arxiv.org/abs/2311.01038 arXiv]\] \[[https://github.com/galina0217/APT code]\]
 . [https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations] \n
 *X. Jiang*, Y. Sun, M. S. Andersen, and L. Vandenberghe \n
 /Applied Set-Valued Analysis and Optimization/. 2023.
@@ -31,13 +34,13 @@ In /Proceedings of the 37th Conference on Neural Information Processing Systems 
 . [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
 *X. Jiang*, and L. Vandenberghe \n
 /Computational Optimization and Applications/, 2022. \[[https://link.springer.com/article/10.1007/s10589-021-00339-7 doi]\] \[[publications/sdp-bregman.pdf preprint]\]
-. [publications/stack.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \n
+. [publications/stack-aaai22.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \n
 J. Xu, Y. Sun, *X. Jiang*, Y. Wang, C. Wang, J. Lu, and Y. Yang \n
-In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022. \[[https://github.com/galina0217/stack code]\]
-. [publications/robustgraph.pdf Unsupervised adversarially robust representation learning on graphs] \n
+In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022. \[[https://ojs.aaai.org/index.php/AAAI/article/view/20350 doi]\] \[[https://arxiv.org/abs/2012.06757 arXiv]\] \[[https://github.com/galina0217/stack code]\]
+. [publications/robustgraph-aaai22.pdf Unsupervised adversarially robust representation learning on graphs] \n
 J. Xu, Y. Yang, J. Chen, *X. Jiang*, C. Wang, J. Lu, and Y. Yang \n
-In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022. \[[https://github.com/galina0217/robustgraph code]\]
-. [publications/open-door.pdf Consolidating kinematic models to promote coordinated mobile manipulations] \n
+In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022. \[[https://ojs.aaai.org/index.php/AAAI/article/view/20349 doi]\] \[[https://arxiv.org/abs/2012.02486 arXiv]\] \[[https://github.com/galina0217/robustgraph code]\]
+. [publications/open-door-iros21.pdf Consolidating kinematic models to promote coordinated mobile manipulations] \n
 Z. Jiao\*, Z. Zhang\*, *X. Jiang*, D. Han, S.-C. Zhu, Y. Zhu, and H. Liu \n
 In /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2021. \[[https://arxiv.org/abs/2108.01264 arXiv]\]
 

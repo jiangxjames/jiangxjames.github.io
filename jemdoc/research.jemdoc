@@ -63,7 +63,7 @@ Distributed and decentralized methods allow computational agents to communicate 
 
 Selected publications:
 - [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
-E. D. H. Nguyen, *X. Jiang*, B. Cheng, and C. A. Uribe \n
+E. D. H. Nguyen, *X. Jiang*, B. Cheng, and C. A. Uribe, 2023
 
 = Machine learning for graphical data
 
@@ -74,9 +74,9 @@ My research in this direction aims at building a data-centric, scalable, and rob
 ~~~
 
 Selected publications:
-- [publications/better-w-less.pdf Better with less: A data-active perspective on pre-training graph neural networks] \[NeurIPS'23\] \n
+- [publications/better-w-less-neurips23.pdf Better with less: A data-active perspective on pre-training graph neural networks] \[NeurIPS'23\] \n
 J. Xu, R. Huang, *X. Jiang*, Y. Cao, C. Yang, C. Wang, and Y. Yang \n
-- [publications/stack.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \[AAAI'22\] \n
+- [publications/stack-aaai22.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \[AAAI'22\] \n
 J. Xu, Y. Sun, *X. Jiang*, Y. Wang, C. Wang, J. Lu, and Y. Yang \n
-- [publications/robustgraph.pdf Unsupervised adversarially robust representation learning on graphs] \[AAAI'22\] \n
+- [publications/robustgraph-aaai22.pdf Unsupervised adversarially robust representation learning on graphs] \[AAAI'22\] \n
 J. Xu, Y. Yang, J. Chen, *X. Jiang*, C. Wang, J. Lu, and Y. Yang \n
