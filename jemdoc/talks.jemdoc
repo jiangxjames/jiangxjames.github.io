@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
+- On graph sequences with finite-time consensus
+    -- 2024 INFORMS Optimization Society Conference, Houston, TX, March 2023.
+
 - [talks/2310-informs.pdf On the almost-sure convergence of a stochastic SQP method]
     -- INFORMS Annual Meeting, Phoenix, AZ, October 2023.
 
