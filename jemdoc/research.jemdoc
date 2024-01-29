@@ -42,6 +42,21 @@ C. Yao, and *X. Jiang*, 2023
 - [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
 *X. Jiang*, and L. Vandenberghe, 2022
 
+= Distributed and decentralized optimization
+
+Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.
+
+~~~
+{}{img_left}{research/hypercuboid.jpg}{alt text}{800px}{175px}{}
+~~~
+
+Selected publications:
+- [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
+*X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024
+- [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
+E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe, 2023
+
+
 = Stochastic constrained optimization
 
 My research focuses on the design, analysis and implementation of efficient and reliable algorithms for solving large-scale nonlinear optimization problems, especially when only stochastic estimates of objective gradients (rather than true gradients) are accessible.
@@ -52,18 +67,6 @@ My research focuses on the design, analysis and implementation of efficient and 
 Selected publications:
 - [publications/sqp-analysis.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang, 2023
-
-= Distributed and decentralized optimization
-
-Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.
-
-~~~
-{}{img_left}{research/hypercuboid.jpg}{alt text}{800px}{175px}{}
-~~~
-
-Selected publications:
-- [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
-E. D. H. Nguyen, *X. Jiang*, B. Cheng, and C. A. Uribe, 2023
 
 = Machine learning for graphical data
 
