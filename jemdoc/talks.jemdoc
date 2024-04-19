@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
+- [talks/2404-harvard.pdf Recent advances in structure exploitation for semidefinite programming]
+    -- Guest lecture for [https://hankyang.seas.harvard.edu/Semidefinite/ ENG-SCI 257: Semidefinite Optimization and Relaxation] at Harvard University, April 2024. (invited by [https://hankyang.seas.harvard.edu/ Heng Yang])
+
 - [talks/2403-ios.pdf On graph sequences with finite-time consensus]
     -- 2024 INFORMS Optimization Society Conference, Houston, TX, March 2023.
 
