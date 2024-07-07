@@ -1,18 +1,23 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 = Teaching and Mentorship
 
-== Teaching
+== Teaching at Cornell
 
-- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee133a.html ECE133A Applied Numerical Computing], UCLA.
+- Instructor: [https://classes.cornell.edu/browse/roster/FA24/class/ORIE/3300 ORIE 3300/5300 Optimization I], Cornell.
+    -- Fall 2024
+
+== Teaching at UCLA
+
+- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee133a.html ECE 133A Applied Numerical Computing], UCLA.
     -- Spring 2017 \M Winter 2018 \M Fall 2018 \M Fall 2021
     -- [teaching/ece133a.pdf Tutorial slides]
-- Teaching Assistant: ECE205A Matrix Analysis for Scientists and Engineers, UCLA.
+- Teaching Assistant: ECE 205A Matrix Analysis for Scientists and Engineers, UCLA.
     -- Fall 2020
     -- [teaching/ece205a.pdf Review notes]
-- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html ECE236B Convex Optimization], UCLA.
+- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html ECE 236B Convex Optimization], UCLA.
     -- Winter 2017 \M Spring 2018 \M Winter 2019 \M Winter 2021 \M Winter 2022
     -- [teaching/ece236b-duality.pdf Tutorial slides for duality]
-- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee236c.html ECE236C Optimization Methods for Large-Scale Systems], UCLA.
+- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee236c.html ECE 236C Optimization Methods for Large-Scale Systems], UCLA.
     -- Spring 2019 \M Spring 2022
 
 == Mentorship
