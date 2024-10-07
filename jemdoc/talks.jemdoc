@@ -1,8 +1,20 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
+- A novel primal-dual algorithm for decentralized optimization with time-varying graphs
+    -- SIAM New York-New Jersey-Pennsylvania Section Conference, Rochester, NY, November 2024.
+
+- Graph sequences with finite-time convergence for decentralized average consensus
+    -- Cornell ORIE Young Researchers Workshop, Ithaca, NY, October 2024.
+
+- On the development of a novel primal-dual algorithm for decentralized optimization with time-varying graphs
+    -- Modeling and Optimization: Theory and Applications (MOPTA), Bethlehem, PA, August 2024.
+
+- Improved stochastic controlled averaging for federated learning
+    -- Modeling and Optimization: Theory and Applications (MOPTA), Bethlehem, PA, August 2024.
+
 - [talks/2404-harvard.pdf Recent advances in structure exploitation for semidefinite programming]
-    -- Guest lecture for [https://hankyang.seas.harvard.edu/Semidefinite/ ENG-SCI 257: Semidefinite Optimization and Relaxation] at Harvard University, April 2024. (invited by [https://hankyang.seas.harvard.edu/ Heng Yang])
+    -- Guest lecture in [https://hankyang.seas.harvard.edu/Semidefinite/ ENG-SCI 257: Semidefinite Optimization and Relaxation] at Harvard University, April 2024. (invited by [https://hankyang.seas.harvard.edu/ Heng Yang])
 
 - [talks/2403-ios.pdf On graph sequences with finite-time consensus]
     -- 2024 INFORMS Optimization Society Conference, Houston, TX, March 2023.
@@ -11,7 +23,7 @@
     -- INFORMS Annual Meeting, Phoenix, AZ, October 2023.
 
 - [talks/2308-mopta.pdf A globally convergent difference-of-convex algorithmic framework]
-    -- Modeling and Optimization: Theory and Applications (MOPTA), Bethlehem, PA, Auguest 2023.
+    -- Modeling and Optimization: Theory and Applications (MOPTA), Bethlehem, PA, August 2023.
     -- SIAM Conference on Optimization (OP23), Seattle, WA, May 2023.
     -- 57th Annual Conference on Information Sciences and Systems, Baltimore, MD, March 2023.
 

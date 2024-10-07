@@ -23,23 +23,41 @@
 <div id="toptitle">
 <h1>Research overview</h1>
 </div>
-<p>My research is rooted in the <b>mathematical foundations of data science</b>, with primary focuses on <b>theory and algorithms for large-scale optimization problems</b> from engineering and data sciences and <b>machine learning for graphical data</b>. Most of my research is in one of the following directions.</p>
+<p>My research is rooted in the <b>mathematical foundations of data science</b>, with primary focuses on <b>theory and algorithms for large-scale optimization problems</b> from engineering, data sciences and <b>machine learning for graphical data</b>. Most of my research is in one of the following directions.</p>
 <ol>
+<li><p><b>Distributed and decentralized optimization</b> <br />
+I design communication networks and optimization algorithms in decentralized optimization and manage the trade-off between communication costs and convergence rate.</p>
+</li>
 <li><p><b>First-order methods for large-scale systems</b> <br />
 I design, analyze and implement proximal first-order methods for large-scale optimization problems.</p>
 </li>
 <li><p><b>Nonlinear and nonconvex optimization with benign structure</b> <br />
 I try to identify interesting problem and data structures and design efficient algorithms for these problems.</p>
 </li>
-<li><p><b>Stochastic constrained optimization</b> <br />
+<li><p><b>Constrained stochastic optimization</b> <br />
 For smooth nonlinear optimization problems, I study stochastic-gradient-based algorithms that can handle deterministic constraints.</p>
-</li>
-<li><p><b>Distributed and decentralized optimization</b> <br /> I study topology design in decentralized optimization and manage the trade-off between communication costs and convergence rate.</p>
 </li>
 <li><p><b>Machine learning for graphical data</b> <br />
 I aim to build data-centric and robust graph representation models, especially with fairness and privacy concerns.</p>
 </li>
 </ol>
+<h1>Distributed and decentralized optimization</h1>
+<p>Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.</p>
+<table class="imgtable"><tr><td>
+<img src="research/hypercuboid.jpg" alt="alt text" width="800px" height="175px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<p>Selected publications:</p>
+<ul>
+<li><p>A general framework for an exact decentralized optimization problem under time-varying networks <br />
+E. D. H. Nguyen, B. Ying, W. Yin, and <b>X. Jiang</b>, 2024+</p>
+</li>
+<li><p><a href="publications/hierarchical-banded.pdf">Sparse factorization of the square all-ones matrix of arbitrary order</a> <br />
+<b>X. Jiang</b>, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024</p>
+</li>
+<li><p><a href="publications/finite-time-consensus.pdf">On graphs with finite-time consensus and their use in gradient tracking</a> <br />
+E. D. H. Nguyen, <b>X. Jiang</b>, B. Ying, and C. A. Uribe, 2023</p>
+</li>
+</ul>
 <h1>Proximal methods with Bregman distances</h1>
 <p>Proximal methods have become a standard tool for solving nonsmooth, constrained, large-scale or distributed optimization probelms. To further improve the efficiency in computation of proximal operators, I am particularly interested in generalized proximal operators based on Bregman distances. Carefully designed Bregman proximal operators can better match the structure of the problem, thus improving the convergence rate of the proximal algorithms. A Bregman proximal operator can also be easier to compute than its Euclidean counterpart, thereby reducing the per-iteration complexity of a proximal algorithm.</p>
 <table class="imgtable"><tr><td>
@@ -47,6 +65,9 @@ I aim to build data-centric and robust graph representation models, especially w
 <td align="left"></td></tr></table>
 <p>Selected publications</p>
 <ul>
+<li><p>Extragradient method for self-dual conic linear programs <br />
+<b>X. Jiang</b>, J. Shao, and L. Vandenberghe, 2024+</p>
+</li>
 <li><p><a href="https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf">Bregman three-operator splitting methods</a> <br />
 <b>X. Jiang</b>, and L. Vandenberghe, 2023</p>
 </li>
@@ -71,27 +92,16 @@ C. Yao, and <b>X. Jiang</b>, 2023</p>
 <b>X. Jiang</b>, and L. Vandenberghe, 2022</p>
 </li>
 </ul>
-<h1>Distributed and decentralized optimization</h1>
-<p>Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.</p>
-<table class="imgtable"><tr><td>
-<img src="research/hypercuboid.jpg" alt="alt text" width="800px" height="175px" />&nbsp;</td>
-<td align="left"></td></tr></table>
-<p>Selected publications:</p>
-<ul>
-<li><p><a href="publications/hierarchical-banded.pdf">Sparse factorization of the square all-ones matrix of arbitrary order</a> <br />
-<b>X. Jiang</b>, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024</p>
-</li>
-<li><p><a href="publications/finite-time-consensus.pdf">On graphs with finite-time consensus and their use in gradient tracking</a> <br />
-E. D. H. Nguyen, <b>X. Jiang</b>, B. Ying, and C. A. Uribe, 2023</p>
-</li>
-</ul>
-<h1>Stochastic constrained optimization</h1>
+<h1>Constrained stochastic optimization</h1>
 <p>My research focuses on the design, analysis and implementation of efficient and reliable algorithms for solving large-scale nonlinear optimization problems, especially when only stochastic estimates of objective gradients (rather than true gradients) are accessible.</p>
 <table class="imgtable"><tr><td>
 <img src="research/sqp-analysis.jpg" alt="alt text" width="800px" height="250px" />&nbsp;</td>
 <td align="left"></td></tr></table>
 <p>Selected publications:</p>
 <ul>
+<li><p><a href="publications/slip.pdf">Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization</a> <br />
+F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2024</p>
+</li>
 <li><p><a href="publications/sqp-analysis.pdf">Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization</a> <br />
 F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2023</p>
 </li>
@@ -103,14 +113,14 @@ F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2023</p>
 <td align="left"></td></tr></table>
 <p>Selected publications:</p>
 <ul>
+<li><p>Extracting training data from molecular pre-trained models [NeurIPS&rsquo;24] <br />
+R. Huang, J. Xu, Z. Yang, X. Si, <b>X. Jiang</b>, H. Yuan, C. Wang, and Y. Yang</p>
+</li>
+<li><p><a href="publications/gda-kdd24.pdf">Can modifying data address graph domain adaptation?</a> [KDD&rsquo;24] <br />
+R. Huang, J. Xu, <b>X. Jiang</b>, R. An, and Y. Yang <br /></p>
+</li>
 <li><p><a href="publications/better-w-less-neurips23.pdf">Better with less: A data-active perspective on pre-training graph neural networks</a> [NeurIPS&rsquo;23] <br />
 J. Xu, R. Huang, <b>X. Jiang</b>, Y. Cao, C. Yang, C. Wang, and Y. Yang <br /></p>
-</li>
-<li><p><a href="publications/stack-aaai22.pdf">Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs</a> [AAAI&rsquo;22] <br />
-J. Xu, Y. Sun, <b>X. Jiang</b>, Y. Wang, C. Wang, J. Lu, and Y. Yang <br /></p>
-</li>
-<li><p><a href="publications/robustgraph-aaai22.pdf">Unsupervised adversarially robust representation learning on graphs</a> [AAAI&rsquo;22] <br />
-J. Xu, Y. Yang, J. Chen, <b>X. Jiang</b>, C. Wang, J. Lu, and Y. Yang <br /></p>
 </li>
 </ul>
 </td>

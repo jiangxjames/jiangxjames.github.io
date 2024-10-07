@@ -17,9 +17,9 @@ Email: xjiang \[AT\] cornell \[DOT\] edu
 #[misc/cv.pdf \[Curriculum vitae\]]
 ~~~
 
-#~~~
-#I am currently on the 2023-2024 academic job market and looking for faculty or postdoc position openings in IEOR\/Applied Math\/ECE\/CS\/Data Science and related fields. Feel free to contact me for any opportunities.
-#~~~
+~~~
+I am currently on the 2024-2025 academic job market and looking for faculty or postdoc position openings in IEOR\/Applied Math\/ECE\/CS\/Data Science and related fields. Feel free to contact me for any opportunities.
+~~~
 
 == Brief Biography
 
@@ -30,7 +30,7 @@ I am now a postdoctoral researcher in the School of Operations Research and Info
 I am broadly interested in the *mathematical foundations of data science*, with primary focuses on *theory and algorithms for large-scale optimization problems* from engineering and data science and *machine learning for graphical data*. My research interests broadly include
 
 - Convex and nonconvex optimization
-- Constrained stochastic optimization
 - Distributed (and decentralized) optimization
-- Scientific machine learning (especially on graphical data)
-- Foundations of data science
+- Constrained stochastic optimization
+- Artificial intelligence and scientific machine learning (especially on graphical data)
+- Mathematical foundations of data science

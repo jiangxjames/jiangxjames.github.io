@@ -1,16 +1,33 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 = Research overview
 
-My research is rooted in the *mathematical foundations of data science*, with primary focuses on *theory and algorithms for large-scale optimization problems* from engineering and data sciences and *machine learning for graphical data*. Most of my research is in one of the following directions.
+My research is rooted in the *mathematical foundations of data science*, with primary focuses on *theory and algorithms for large-scale optimization problems* from engineering, data sciences and *machine learning for graphical data*. Most of my research is in one of the following directions.
+. *Distributed and decentralized optimization* \n
+I design communication networks and optimization algorithms in decentralized optimization and manage the trade-off between communication costs and convergence rate.
 . *First-order methods for large-scale systems* \n
 I design, analyze and implement proximal first-order methods for large-scale optimization problems.
 . *Nonlinear and nonconvex optimization with benign structure* \n
 I try to identify interesting problem and data structures and design efficient algorithms for these problems.
-. *Stochastic constrained optimization* \n
+. *Constrained stochastic optimization* \n
 For smooth nonlinear optimization problems, I study stochastic-gradient-based algorithms that can handle deterministic constraints.
-. *Distributed and decentralized optimization* \n I study topology design in decentralized optimization and manage the trade-off between communication costs and convergence rate.
 . *Machine learning for graphical data* \n
 I aim to build data-centric and robust graph representation models, especially with fairness and privacy concerns.
+
+= Distributed and decentralized optimization
+
+Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.
+
+~~~
+{}{img_left}{research/hypercuboid.jpg}{alt text}{800px}{175px}{}
+~~~
+
+Selected publications:
+- A general framework for an exact decentralized optimization problem under time-varying networks \n
+E. D. H. Nguyen, B. Ying, W. Yin, and *X. Jiang*, 2024+
+- [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
+*X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024
+- [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
+E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe, 2023
 
 = Proximal methods with Bregman distances
 
@@ -21,6 +38,8 @@ Proximal methods have become a standard tool for solving nonsmooth, constrained,
 ~~~
 
 Selected publications
+- Extragradient method for self-dual conic linear programs \n
+*X. Jiang*, J. Shao, and L. Vandenberghe, 2024+
 - [https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf Bregman three-operator splitting methods] \n
 *X. Jiang*, and L. Vandenberghe, 2023
 - [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
@@ -42,22 +61,7 @@ C. Yao, and *X. Jiang*, 2023
 - [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
 *X. Jiang*, and L. Vandenberghe, 2022
 
-= Distributed and decentralized optimization
-
-Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.
-
-~~~
-{}{img_left}{research/hypercuboid.jpg}{alt text}{800px}{175px}{}
-~~~
-
-Selected publications:
-- [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
-*X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024
-- [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
-E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe, 2023
-
-
-= Stochastic constrained optimization
+= Constrained stochastic optimization
 
 My research focuses on the design, analysis and implementation of efficient and reliable algorithms for solving large-scale nonlinear optimization problems, especially when only stochastic estimates of objective gradients (rather than true gradients) are accessible.
 ~~~
@@ -65,6 +69,8 @@ My research focuses on the design, analysis and implementation of efficient and 
 ~~~
 
 Selected publications:
+- [publications/slip.pdf Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization] \n
+F. E. Curtis, *X. Jiang*, and Q. Wang, 2024
 - [publications/sqp-analysis.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang, 2023
 
@@ -77,9 +83,9 @@ My research in this direction aims at building a data-centric, scalable, and rob
 ~~~
 
 Selected publications:
+- Extracting training data from molecular pre-trained models \[NeurIPS'24\] \n
+R. Huang, J. Xu, Z. Yang, X. Si, *X. Jiang*, H. Yuan, C. Wang, and Y. Yang
+- [publications/gda-kdd24.pdf Can modifying data address graph domain adaptation?] \[KDD'24\] \n
+R. Huang, J. Xu, *X. Jiang*, R. An, and Y. Yang \n
 - [publications/better-w-less-neurips23.pdf Better with less: A data-active perspective on pre-training graph neural networks] \[NeurIPS'23\] \n
 J. Xu, R. Huang, *X. Jiang*, Y. Cao, C. Yang, C. Wang, and Y. Yang \n
-- [publications/stack-aaai22.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \[AAAI'22\] \n
-J. Xu, Y. Sun, *X. Jiang*, Y. Wang, C. Wang, J. Lu, and Y. Yang \n
-- [publications/robustgraph-aaai22.pdf Unsupervised adversarially robust representation learning on graphs] \[AAAI'22\] \n
-J. Xu, Y. Yang, J. Chen, *X. Jiang*, C. Wang, J. Lu, and Y. Yang \n
