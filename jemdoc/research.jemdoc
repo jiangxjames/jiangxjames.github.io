@@ -38,7 +38,7 @@ Proximal methods have become a standard tool for solving nonsmooth, constrained,
 ~~~
 
 Selected publications
-- Extragradient method for self-dual conic linear programs \n
+- Primal-dual proximal methods for self-dual conic linear programs \n
 *X. Jiang*, J. Shao, and L. Vandenberghe, 2024+
 - [https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf Bregman three-operator splitting methods] \n
 *X. Jiang*, and L. Vandenberghe, 2023

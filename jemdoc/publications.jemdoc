@@ -7,15 +7,9 @@ See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Goo
 . [publications/slip.pdf Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang \n
 Preprint, 2024. \[[https://arxiv.org/abs/2408.16186 arXiv]\]
-. [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
-*X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying \n
-Preprint, 2024. \[[https://arxiv.org/abs/2401.14596 arXiv]\]
 . [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
 E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe \n
 Preprint, 2023. \[[https://arxiv.org/abs/2311.01317 arXiv]\]
-. [publications/sqp-analysis.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
-F. E. Curtis, *X. Jiang*, and Q. Wang \n
-Preprint, 2023. \[[https://arxiv.org/abs/2308.03687 arXiv]\]
 . [publications/dcprox.pdf A globally convergent difference-of-convex algorithmic framework and application to log-determinant optimization problems] \n
 C. Yao, and *X. Jiang* \n
 Preprint, 2023. \[[https://arxiv.org/abs/2306.02001 arXiv]\]
@@ -24,6 +18,12 @@ Preprint, 2023. \[[https://arxiv.org/abs/2306.02001 arXiv]\]
 Preprint, 2019.
 
 == Papers
+. [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
+*X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying \n
+To appear in /SIAM Journal on Matrix Analysis and Applications/, 2024+. \[[https://arxiv.org/abs/2401.14596 arXiv]\]
+. [publications/sqp-analysis.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
+F. E. Curtis, *X. Jiang*, and Q. Wang \n
+To appear in , /Journal of Optimization Theory and Applications/2024+. \[[https://arxiv.org/abs/2308.03687 arXiv]\]
 . Extracting training data from molecular pre-trained models. \n
 R. Huang, J. Xu, Z. Yang, X. Si, *X. Jiang*, H. Yuan, C. Wang, and Y. Yang. \n
 In /Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS)/, 2024.
@@ -32,7 +32,7 @@ R. Huang, J. Xu, *X. Jiang*, R. An, and Y. Yang \n
 In /Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2024. \[[https://github.com/zjunet/GraphAlign code]\]
 . [publications/gt-pga-cdc2024.pdf Accelerating gradient tracking with periodic global averaging] \n
 S. Feng, and *X. Jiang* \n
-Preprint, 2024. \[[publications/gt-pga-arxiv.pdf author's final version]\] \[[https://arxiv.org/abs/2403.11293 arXiv]\]
+In /2024 Conference on Decision and Control/, 2024. \[[publications/gt-pga-arxiv.pdf author's final version]\] \[[https://arxiv.org/abs/2403.11293 arXiv]\]
 . [publications/edm-prox-ios.pdf Inexact proximal splitting methods for Euclidean distance matrix optimization] \n
 *X. Jiang*, and Chaorui Yao \n
 In /2024 INFORMS Optimization Society (IOS) Conference/, 2024. \[[https://sites.google.com/view/ios2024refereed?usp=sharing conference website]\] \[[publications/edm-prox-plain.pdf author's longer version]\]
