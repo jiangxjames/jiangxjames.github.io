@@ -23,8 +23,8 @@ Preprint, 2019.
 To appear in /SIAM Journal on Matrix Analysis and Applications/, 2024+. \[[https://arxiv.org/abs/2401.14596 arXiv]\]
 . [publications/sqp-analysis.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang \n
-To appear in , /Journal of Optimization Theory and Applications/2024+. \[[https://arxiv.org/abs/2308.03687 arXiv]\]
-. Extracting training data from molecular pre-trained models. \n
+To appear in /Journal of Optimization Theory and Applications/, 2024+. \[[https://arxiv.org/abs/2308.03687 arXiv]\]
+. [publications/molextract-neurips24.pdf Extracting training data from molecular pre-trained models] \n
 R. Huang, J. Xu, Z. Yang, X. Si, *X. Jiang*, H. Yuan, C. Wang, and Y. Yang. \n
 In /Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS)/, 2024.
 . [publications/gda-kdd24.pdf Can modifying data address graph domain adaptation?] \n
