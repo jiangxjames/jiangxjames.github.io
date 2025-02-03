@@ -7,9 +7,6 @@ See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Goo
 . [publications/slip.pdf Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang \n
 Preprint, 2024. \[[https://arxiv.org/abs/2408.16186 arXiv]\]
-. [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
-E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe \n
-Preprint, 2023. \[[https://arxiv.org/abs/2311.01317 arXiv]\]
 . [publications/dcprox.pdf A globally convergent difference-of-convex algorithmic framework and application to log-determinant optimization problems] \n
 C. Yao, and *X. Jiang* \n
 Preprint, 2023. \[[https://arxiv.org/abs/2306.02001 arXiv]\]
@@ -18,9 +15,12 @@ Preprint, 2023. \[[https://arxiv.org/abs/2306.02001 arXiv]\]
 Preprint, 2019.
 
 == Papers
+. [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
+E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe \n
+To appear in /SIAM Journal on Optimization/, 2025+. \[[https://arxiv.org/abs/2311.01317 arXiv]\]
 . [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
 *X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying \n
-To appear in /SIAM Journal on Matrix Analysis and Applications/, 2024+. \[[https://arxiv.org/abs/2401.14596 arXiv]\]
+To appear in /SIAM Journal on Matrix Analysis and Applications/, 2025+. \[[https://arxiv.org/abs/2401.14596 arXiv]\]
 . [https://link.springer.com/content/pdf/10.1007/s10957-024-02568-2.pdf Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang \n
 /Journal of Optimization Theory and Applications/, 2025. \[[https://link.springer.com/article/10.1007/s10957-024-02568-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250109&utm_content=10.1007/s10957-024-02568-2 doi]\] \[[https://arxiv.org/abs/2308.03687 arXiv]\]
