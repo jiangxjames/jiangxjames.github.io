@@ -4,6 +4,9 @@
 See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar] and [https://www.semanticscholar.org/author/2110310332 Semantic Scholar].
 
 == Preprints
+. [publications/admm-sdp.pdf Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity] \n
+S. Kang, *X. Jiang*, and H. Yang \n
+Preprint, 2025. \[[https://arxiv.org/abs/2503.20142 arXiv]\]
 . [publications/slip.pdf Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization] \n
 F. E. Curtis, *X. Jiang*, and Q. Wang \n
 Preprint, 2024. \[[https://arxiv.org/abs/2408.16186 arXiv]\]

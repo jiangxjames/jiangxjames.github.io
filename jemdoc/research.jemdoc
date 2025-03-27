@@ -29,6 +29,22 @@ E. D. H. Nguyen, B. Ying, W. Yin, and *X. Jiang*, 2024+
 - [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
 E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe, 2023
 
+= Structured nonlinear and nonconvex optimization
+
+Exploiting problem and data structure is important in both convex and nonconvex optimization. Convex conic optimization, for example, is the basis for general-purpose solvers as well as an important modeling tool for various applications. On the other hand, for certain nonconvex optimization problems, specific problem structure could be leveraged to find a global optimum. My research in this direction exploits interesting structures in the positive semidefinite (PSD) matrix cone, the monotone cone, difference-of-convex (DC) programming, etc.
+
+~~~
+{}{img_left}{research/minrank.jpg}{alt text}{800px}{350px}{}
+~~~
+
+Selected publications:
+- [publications/admm-sdp.pdf Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity] \n
+S. Kang, *X. Jiang*, and H. Yang, 2025 \n
+- [https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations] \n
+*X. Jiang*, Y. Sun, M. S. Andersen, and L. Vandenberghe, 2023
+- [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
+*X. Jiang*, and L. Vandenberghe, 2022
+
 = Proximal methods with Bregman distances
 
 Proximal methods have become a standard tool for solving nonsmooth, constrained, large-scale or distributed optimization probelms. To further improve the efficiency in computation of proximal operators, I am particularly interested in generalized proximal operators based on Bregman distances. Carefully designed Bregman proximal operators can better match the structure of the problem, thus improving the convergence rate of the proximal algorithms. A Bregman proximal operator can also be easier to compute than its Euclidean counterpart, thereby reducing the per-iteration complexity of a proximal algorithm.
@@ -42,22 +58,6 @@ Selected publications
 *X. Jiang*, J. Shao, and L. Vandenberghe, 2024+
 - [https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf Bregman three-operator splitting methods] \n
 *X. Jiang*, and L. Vandenberghe, 2023
-- [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
-*X. Jiang*, and L. Vandenberghe, 2022
-
-= Structured nonlinear and nonconvex optimization
-
-Exploiting problem and data structure is important in both convex and nonconvex optimization. Convex conic optimization, for example, is the basis for general-purpose solvers as well as an important modeling tool for various applications. On the other hand, for certain nonconvex optimization problems, specific problem structure could be leveraged to find a global optimum. My research in this direction exploits interesting structures in the positive semidefinite (PSD) matrix cone, the monotone cone, difference-of-convex (DC) programming, etc.
-
-~~~
-{}{img_left}{research/minrank.jpg}{alt text}{800px}{350px}{}
-~~~
-
-Selected publications:
-- [publications/dcprox.pdf A globally convergent difference-of-convex algorithmic framework and application to log-determinant optimization problems] \n
-C. Yao, and *X. Jiang*, 2023
-- [https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations] \n
-*X. Jiang*, Y. Sun, M. S. Andersen, and L. Vandenberghe, 2023
 - [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
 *X. Jiang*, and L. Vandenberghe, 2022
 
