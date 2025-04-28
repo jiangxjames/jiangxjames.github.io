@@ -3,49 +3,49 @@
 
 == Instructor at Cornell
 
-- Instructor: [https://classes.cornell.edu/browse/roster/FA24/class/ORIE/3300 ORIE 3300/5300 Optimization I], Cornell University.
+- [https://classes.cornell.edu/browse/roster/FA24/class/ORIE/3300 ORIE 3300/5300 Optimization I], Cornell University.
     -- Fall 2024
 
 == Teaching Assistant at UCLA
 
-- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee133a.html ECE 133A Applied Numerical Computing], UCLA.
+- [http://www.seas.ucla.edu/~vandenbe/ee133a.html ECE 133A Applied Numerical Computing], UCLA.
     -- Spring 2017 \M Winter 2018 \M Fall 2018 \M Fall 2021
     -- [teaching/ece133a.pdf Tutorial slides]
-- Teaching Assistant: ECE 205A Matrix Analysis for Scientists and Engineers, UCLA.
+- ECE 205A Matrix Analysis for Scientists and Engineers, UCLA.
     -- Fall 2020
     -- [teaching/ece205a.pdf Review notes]
-- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html ECE 236B Convex Optimization], UCLA.
+- [http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html ECE 236B Convex Optimization], UCLA.
     -- Winter 2017 \M Spring 2018 \M Winter 2019 \M Winter 2021 \M Winter 2022
     -- [teaching/ece236b-duality.pdf Tutorial slides for duality]
-- Teaching Assistant: [http://www.seas.ucla.edu/~vandenbe/ee236c.html ECE 236C Optimization Methods for Large-Scale Systems], UCLA.
+- [http://www.seas.ucla.edu/~vandenbe/ee236c.html ECE 236C Optimization Methods for Large-Scale Systems], UCLA.
     -- Spring 2019 \M Spring 2022
 
-== Mentorship
+#== Mentorship
 
-- Summer Research Program Supervisor \n
-/Summer Undergraduate Research Program (SURP)/, UCLA, June -- August 2021
+#- Summer Research Program Supervisor \n
+#/Summer Undergraduate Research Program (SURP)/, UCLA, June -- August 2021
 
-- Academic Mentor \n
-/Research in Industrial Projects for Students (RIPS) Program/, IPAM, UCLA, June -- August 2019
+#- Academic Mentor \n
+#/Research in Industrial Projects for Students (RIPS) Program/, IPAM, UCLA, June -- August 2019
 
-I am also fortunate to supervise self-motivated junior students on various research projects, with [https://coral.ise.lehigh.edu/frankecurtis/ Frank E. Curtis] (Lehigh ISE), [https://cauribe.rice.edu/ Cesar A. Uribe] (Rice ECE), and [https://galina0217.github.io/ Jiarong Xu] (FDU Business).
-- Ning Fang, MS, Cornell Systems Engineering \n
-Topic: Decentralized optimization
+#I am also fortunate to supervise self-motivated junior students on various research projects, with [https://coral.ise.lehigh.edu/frankecurtis/ Frank E. Curtis] (Lehigh ISE), [https://cauribe.rice.edu/ Cesar A. Uribe] (Rice ECE), and [https://galina0217.github.io/ Jiarong Xu] (FDU Business).
+#- Ning Fang, MS, Cornell Systems Engineering \n
+#Topic: Decentralized optimization
 
-- Edward D. H. Nguyen, PhD, Rice ECE \n
-Topic: Decentralized optimization
+#- Edward D. H. Nguyen, PhD, Rice ECE \n
+#Topic: Decentralized optimization
 
-- [https://sites.google.com/view/qi-wang Qi Wang], PhD, Lehigh ISE \n
-Topic: Constrained stochastic optimization
+#- [https://sites.google.com/view/qi-wang Qi Wang], PhD, Lehigh ISE \n
+#Topic: Constrained stochastic optimization
 
-- [https://www.linkedin.com/in/shujing-feng-462111267/ Shujing Feng], MS, Lehigh CSE \n
-Topic: Federated learning and decentralized optimization
+#- [https://www.linkedin.com/in/shujing-feng-462111267/ Shujing Feng], MS, Lehigh CSE \n
+#Topic: Federated learning and decentralized optimization
 
-- [https://www.linkedin.com/in/shuohao-ping/ Shuohao Ping], MS, UCLA CS \n
-Topic: Quantum computing
+#- [https://www.linkedin.com/in/shuohao-ping/ Shuohao Ping], MS, UCLA CS \n
+#Topic: Quantum computing
 
-- Renhong Huang, MS, ZJU CS \n
-Topic: Machine learning on graphical data
+#- Renhong Huang, MS, ZJU CS \n
+#Topic: Machine learning on graphical data
 
 #~~~
 #{}{table}{}
