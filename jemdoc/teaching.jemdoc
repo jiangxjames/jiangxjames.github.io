@@ -1,24 +1,26 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 = Teaching and Mentorship
 
+== Instructor at UH
+- INDE 6372 Advanced Linear Optimization (Fall 2025)
+
 == Instructor at Cornell
 
-- [https://classes.cornell.edu/browse/roster/FA24/class/ORIE/3300 ORIE 3300/5300 Optimization I], Cornell University.
-    -- Fall 2024
+- [https://classes.cornell.edu/browse/roster/FA24/class/ORIE/3300 ORIE 3300/5300 Optimization I] (Fall 2024)
 
-== Teaching Assistant at UCLA
+#== Teaching Assistant at UCLA
 
-- [http://www.seas.ucla.edu/~vandenbe/ee133a.html ECE 133A Applied Numerical Computing], UCLA.
-    -- Spring 2017 \M Winter 2018 \M Fall 2018 \M Fall 2021
-    -- [teaching/ece133a.pdf Tutorial slides]
-- ECE 205A Matrix Analysis for Scientists and Engineers, UCLA.
-    -- Fall 2020
-    -- [teaching/ece205a.pdf Review notes]
-- [http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html ECE 236B Convex Optimization], UCLA.
-    -- Winter 2017 \M Spring 2018 \M Winter 2019 \M Winter 2021 \M Winter 2022
-    -- [teaching/ece236b-duality.pdf Tutorial slides for duality]
-- [http://www.seas.ucla.edu/~vandenbe/ee236c.html ECE 236C Optimization Methods for Large-Scale Systems], UCLA.
-    -- Spring 2019 \M Spring 2022
+#- [http://www.seas.ucla.edu/~vandenbe/ee133a.html ECE 133A Applied Numerical Computing], UCLA.
+#    -- Spring 2017 \M Winter 2018 \M Fall 2018 \M Fall 2021
+#    -- [teaching/ece133a.pdf Tutorial slides]
+#- ECE 205A Matrix Analysis for Scientists and Engineers, UCLA.
+#    -- Fall 2020
+#    -- [teaching/ece205a.pdf Review notes]
+#- [http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html ECE 236B Convex Optimization], UCLA.
+#    -- Winter 2017 \M Spring 2018 \M Winter 2019 \M Winter 2021 \M Winter 2022
+#    -- [teaching/ece236b-duality.pdf Tutorial slides for duality]
+#- [http://www.seas.ucla.edu/~vandenbe/ee236c.html ECE 236C Optimization Methods for Large-Scale Systems], UCLA.
+#    -- Spring 2019 \M Spring 2022
 
 #== Mentorship
 

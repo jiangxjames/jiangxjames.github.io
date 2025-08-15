@@ -5,22 +5,30 @@
 {}{img_left}{misc/bio.jpg}{alt text}{238}{330px}{}
 {{<font size=+1><b>}}Xin Jiang{{</b></font>}} \n
 
-Postdoctoral Researcher \n
+Assistant Professor \n
 
-236 Rhodes Hall, Ithaca, NY 14853 \n
-[https://www.orie.cornell.edu/orie Operations Research and Information Engineering] \n
-[https://www.cornell.edu/ Cornell University]
+[https://www.ie.uh.edu/ Department of Industrial and Systems Engineering] \n
+[https://www.uh.edu/ University of Houston] \n
+4800 Calhoun Rd \n
+Houston, TX 77004 \n
 
-Email: xjiang \[AT\] cornell \[DOT\] edu
+Email: xinjiang \[AT\] uh \[DOT\] edu
 
-[https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar] \M [https://www.semanticscholar.org/author/2110310332 Semantic Scholar] \M [https://orcid.org/0000-0003-1231-8529 ORCID]
+[https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar] \M
+# [https://www.semanticscholar.org/author/2110310332 Semantic Scholar] \M
+[https://orcid.org/0000-0003-1231-8529 ORCID]
 
 #[misc/cv.pdf \[Curriculum vitae\]]
 ~~~
 
+~~~
+{Prospective students}
+I am looking for self-motivated graduate students and postdocs who are interested in optimization, machine learning, data science, and related topics. Please feel free to contact me.
+~~~
+
 == Brief Biography
 
-I am now a postdoctoral researcher in the School of Operations Research and Information Engineering at Cornell University, advised by [https://people.orie.cornell.edu/aslewis/ Prof. Adrian S. Lewis]. Previously, I was a postdoctoral researcher hosted by [https://wordpress.lehigh.edu/lehigh-mods/ Program in the Foundations and Applications of Mathematical Optimization and Data Science (MODS)] at Lehigh University, where I worked closely with [https://coral.ise.lehigh.edu/frankecurtis/ Prof. Frank E. Curtis]. In 2022, I obtained my Ph.D. degree in Electrical and Computer Engineering at UCLA, under the supervision of [http://www.seas.ucla.edu/~vandenbe/index.html Prof. Lieven Vandenberghe]. Prior to that, I received Bachelor of Engineering degree in Electrical and Electronics Engineering from the University of Hong Kong.
+I am an Assistant Professor in Industrial and Systems Engineering at University of Houston. Previously, I was a postdoctoral researcher at in [https://www.engineering.cornell.edu/orie/ Cornell ORIE] (2024-2025), hosted by [https://people.orie.cornell.edu/aslewis/ Adrian S. Lewis], and [Lehigh ISE], working with [https://coral.ise.lehigh.edu/frankecurtis/ Frank E. Curtis]. I obtained my Ph.D. degree in Electrical and Computer Engineering at UCLA, advised by [http://www.seas.ucla.edu/~vandenbe/index.html Lieven Vandenberghe].
 
 == Research Interests
 
@@ -28,6 +36,7 @@ I am broadly interested in the *mathematical foundations of data science*, with 
 
 - Convex and nonconvex optimization
 - Distributed (and decentralized) optimization
-- Constrained stochastic optimization
 - Artificial intelligence and scientific machine learning (especially on graphical data)
 - Mathematical foundations of data science
+
+My research focuses on what I think of as "practical theory", for example, designing algorithms that are both theoretically principled and effective for real-world problems. I'm especially drawn to ideas that are simple, intuitive, and---at least to me---elegant. Being a theoretician isn't about collecting theorems, just like being a writer isn't about stacking sentences. I work to understand core problems more deeply and explore when and why algorithms succeed or fail. As I continue to develop my research program, I'm excited to stay curious, learn from others, and contribute to the filed with rigor and creativity.
