@@ -4,7 +4,7 @@
 See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar].
 
 == Preprints
-. [publications/swap-dys.pdf Swapping objectives accelerates Davis-Yin splitting] \n
+. [publications/swap-dys.pdf Exact worst-case convergence rates for Douglas-Rachford and Davis-Yin splitting methods] \n
 E. D. H. Nguyen, J. J. Suh, *X. Jiang*, S. Ma \n
 Preprint, 2025. \[[https://arxiv.org/abs/2506.23475 arXiv]\]
 . [publications/admm-sdp.pdf Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity] \n
