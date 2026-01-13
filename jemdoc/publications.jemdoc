@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
-See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar].
+See also [https://scholar.google.com/citations?hl=en&user=zs_h9Y4AAAAJ&view_op=list_works&sortby=pubdate Google Scholar].
 
 == Preprints
 . [publications/swap-dys.pdf Exact worst-case convergence rates for Douglas-Rachford and Davis-Yin splitting methods] \n
@@ -10,11 +10,11 @@ Preprint, 2025. \[[https://arxiv.org/abs/2506.23475 arXiv]\]
 . [publications/admm-sdp.pdf Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity] \n
 S. Kang, *X. Jiang*, and H. Yang \n
 Preprint, 2025. \[[https://arxiv.org/abs/2503.20142 arXiv]\]
-. [publications/slip.pdf Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization] \n
-\[$\alpha$\] F. E. Curtis, *X. Jiang*, and Q. Wang \n
-Preprint, 2024. \[[https://arxiv.org/abs/2408.16186 arXiv]\]
 
 == Journal articles
+. [publications/slip.pdf A single-loop stochastic feasible interior-point algorithm for nonlinear inequality-constrained optimization] \n
+\[$\alpha$\] F. E. Curtis, *X. Jiang*, and Q. Wang \n
+/Mathematical Programming/, 2026. \[[https://link.springer.com/article/10.1007/s10107-025-02320-2 doi]\] \[[https://arxiv.org/abs/2408.16186 arXiv]\]
 . [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
 E. D. H. Nguyen, *X. Jiang*, B. Ying, and C. A. Uribe \n
 /SIAM Journal on Optimization/, 2025. \[[https://epubs.siam.org/doi/10.1137/24M1661455 doi]\] \[[https://arxiv.org/abs/2311.01317 arXiv]\]
@@ -42,7 +42,7 @@ In /Proceedings of the 38th Conference on Neural Information Processing Systems 
 . [publications/gda-kdd24.pdf Can modifying data address graph domain adaptation?] \n
 R. Huang, J. Xu, *X. Jiang*, R. An, and Y. Yang \n
 In /Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2024. \[[https://github.com/zjunet/GraphAlign code]\]
-. [publications/gt-pga-cdc2024.pdf Accelerating gradient tracking with periodic global averaging] \n
+. [publications/gt-pga-cdc24.pdf Accelerating gradient tracking with periodic global averaging] \n
 S. Feng, and *X. Jiang* \n
 In /2024 Conference on Decision and Control/, 2024. \[[publications/gt-pga-arxiv.pdf author's final version]\] \[[https://arxiv.org/abs/2403.11293 arXiv]\]
 . [publications/edm-prox-ios.pdf Inexact proximal splitting methods for Euclidean distance matrix optimization] \n
@@ -63,6 +63,11 @@ In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022.
 . [publications/open-door-iros21.pdf Consolidating kinematic models to promote coordinated mobile manipulations] \n
 Z. Jiao\*, Z. Zhang\*, *X. Jiang*, D. Han, S.-C. Zhu, Y. Zhu, and H. Liu \n
 In /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2021. \[[https://arxiv.org/abs/2108.01264 arXiv]\]
+
+== Workshop papers
+. [publications/pepflow-neurips25.pdf.pdf PEPFlow: A Python library for the workflow of performance estimation of optimization algorithms] \n
+J. J. Suh, B. Ying, *X. Jiang*, E. D. H. Nguyen. \n
+In [https://www.cvxgrp.org/scaleopt/ /NeurIPS 2025 Workshop ScaleOPT/], 2025. \[[https://openreview.net/forum?id=tJqsZZBmmB OpenReview]\] \[[https://github.com/pepflow-lib/PEPFlow GitHub]\] \[[https://pepflow-lib.github.io/PEPFlow/ project website]\]
 
 == Thesis
 

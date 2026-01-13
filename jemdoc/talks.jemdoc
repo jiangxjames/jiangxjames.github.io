@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks
 
+- PEPFlow: A Python library for systematic analyses of optimization algorithms
+    -- Data-enabled science seminar at University of Houston, November 2025.
+    -- ISL Colloquium at Stanford University, November 2025.
+
 - [talks/2507-admm-sdp.pdf First-order methods for semidefinite programming: rank identification and local linear convergence]
     -- INFORMS Annual Meeting, Atlanta, GA, October 2025.
     -- International Conference on Continuous Optimization (ICCOPT), Los Angeles, CA, July 2025.
