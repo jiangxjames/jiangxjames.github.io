@@ -22,8 +22,6 @@ Distributed and decentralized methods allow computational agents to communicate 
 ~~~
 
 Selected publications:
-- A general framework for an exact decentralized optimization problem under time-varying networks \n
-E. D. H. Nguyen, B. Ying, W. Yin, and *X. Jiang*, 2024+
 - [publications/hierarchical-banded.pdf Sparse factorization of the square all-ones matrix of arbitrary order] \n
 *X. Jiang*, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024
 - [publications/finite-time-consensus.pdf On graphs with finite-time consensus and their use in gradient tracking] \n
@@ -54,8 +52,6 @@ Proximal methods have become a standard tool for solving nonsmooth, constrained,
 ~~~
 
 Selected publications
-- Primal-dual proximal methods for self-dual conic linear programs \n
-*X. Jiang*, J. Shao, and L. Vandenberghe, 2024+
 - [https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf Bregman three-operator splitting methods] \n
 *X. Jiang*, and L. Vandenberghe, 2023
 - [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n

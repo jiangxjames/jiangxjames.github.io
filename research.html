@@ -5,8 +5,19 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<link rel="shortcut icon" type="image/x-icon" href="misc/cornell_icon.ico" />
 <title>Research overview</title>
+<!-- MathJax -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)'], ['$', '$']],
+    displayMath: [['\\[','\\]'], ['$$','$$']],
+    tags: 'ams'
+  }
+};
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<!-- End MathJax -->
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -23,104 +34,126 @@
 <div id="toptitle">
 <h1>Research overview</h1>
 </div>
-<p>My research is rooted in the <b>mathematical foundations of data science</b>, with primary focuses on <b>theory and algorithms for large-scale optimization problems</b> from engineering, data sciences and <b>machine learning for graphical data</b>. Most of my research is in one of the following directions.</p>
+<p>My research is rooted in the <b>mathematical foundations of data science</b>, with primary focuses on <b>theory and algorithms for large-scale optimization problems</b> from engineering, data sciences and <b>machine learning for graphical data</b>. Most of my research is in one of the following directions.
+</p>
 <ol>
 <li><p><b>Distributed and decentralized optimization</b> <br />
-I design communication networks and optimization algorithms in decentralized optimization and manage the trade-off between communication costs and convergence rate.</p>
+I design communication networks and optimization algorithms in decentralized optimization and manage the trade-off between communication costs and convergence rate.
+</p>
 </li>
 <li><p><b>First-order methods for large-scale systems</b> <br />
-I design, analyze and implement proximal first-order methods for large-scale optimization problems.</p>
+I design, analyze and implement proximal first-order methods for large-scale optimization problems.
+</p>
 </li>
 <li><p><b>Nonlinear and nonconvex optimization with benign structure</b> <br />
-I try to identify interesting problem and data structures and design efficient algorithms for these problems.</p>
+I try to identify interesting problem and data structures and design efficient algorithms for these problems.
+</p>
 </li>
 <li><p><b>Constrained stochastic optimization</b> <br />
-For smooth nonlinear optimization problems, I study stochastic-gradient-based algorithms that can handle deterministic constraints.</p>
+For smooth nonlinear optimization problems, I study stochastic-gradient-based algorithms that can handle deterministic constraints.
+</p>
 </li>
 <li><p><b>Machine learning for graphical data</b> <br />
-I aim to build data-centric and robust graph representation models, especially with fairness and privacy concerns.</p>
+I aim to build data-centric and robust graph representation models, especially with fairness and privacy concerns.
+</p>
 </li>
 </ol>
 <h1>Distributed and decentralized optimization</h1>
-<p>Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.</p>
+<p>Distributed and decentralized methods allow computational agents to communicate over a network and to collaboratively solve an optimization problem. This area has received increasing attention, partially due to the recent interests in federated learning with privacy concerns. My research involves the design and analysis of distributed algorithms as well as the network topology in decentralized optimization.
+</p>
 <table class="imgtable"><tr><td>
 <img src="research/hypercuboid.jpg" alt="alt text" width="800px" height="175px" />&nbsp;</td>
 <td align="left"></td></tr></table>
-<p>Selected publications:</p>
+<p>Selected publications:
+</p>
 <ul>
-<li><p>A general framework for an exact decentralized optimization problem under time-varying networks <br />
-E. D. H. Nguyen, B. Ying, W. Yin, and <b>X. Jiang</b>, 2024+</p>
+<li><p><a href="publications/hierarchical-banded.pdf" target=&ldquo;blank&rdquo;>Sparse factorization of the square all-ones matrix of arbitrary order</a> <br />
+<b>X. Jiang</b>, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024
+</p>
 </li>
-<li><p><a href="publications/hierarchical-banded.pdf">Sparse factorization of the square all-ones matrix of arbitrary order</a> <br />
-<b>X. Jiang</b>, E. D. H. Nguyen, C. A. Uribe, and B. Ying, 2024</p>
-</li>
-<li><p><a href="publications/finite-time-consensus.pdf">On graphs with finite-time consensus and their use in gradient tracking</a> <br />
-E. D. H. Nguyen, <b>X. Jiang</b>, B. Ying, and C. A. Uribe, 2023</p>
+<li><p><a href="publications/finite-time-consensus.pdf" target=&ldquo;blank&rdquo;>On graphs with finite-time consensus and their use in gradient tracking</a> <br />
+E. D. H. Nguyen, <b>X. Jiang</b>, B. Ying, and C. A. Uribe, 2023
+</p>
 </li>
 </ul>
 <h1>Structured nonlinear and nonconvex optimization</h1>
-<p>Exploiting problem and data structure is important in both convex and nonconvex optimization. Convex conic optimization, for example, is the basis for general-purpose solvers as well as an important modeling tool for various applications. On the other hand, for certain nonconvex optimization problems, specific problem structure could be leveraged to find a global optimum. My research in this direction exploits interesting structures in the positive semidefinite (PSD) matrix cone, the monotone cone, difference-of-convex (DC) programming, etc.</p>
+<p>Exploiting problem and data structure is important in both convex and nonconvex optimization. Convex conic optimization, for example, is the basis for general-purpose solvers as well as an important modeling tool for various applications. On the other hand, for certain nonconvex optimization problems, specific problem structure could be leveraged to find a global optimum. My research in this direction exploits interesting structures in the positive semidefinite (PSD) matrix cone, the monotone cone, difference-of-convex (DC) programming, etc.
+</p>
 <table class="imgtable"><tr><td>
 <img src="research/minrank.jpg" alt="alt text" width="800px" height="350px" />&nbsp;</td>
 <td align="left"></td></tr></table>
-<p>Selected publications:</p>
+<p>Selected publications:
+</p>
 <ul>
-<li><p><a href="publications/admm-sdp.pdf">Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity</a> <br />
-S. Kang, <b>X. Jiang</b>, and H. Yang, 2025 <br /></p>
+<li><p><a href="publications/admm-sdp.pdf" target=&ldquo;blank&rdquo;>Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity</a> <br />
+S. Kang, <b>X. Jiang</b>, and H. Yang, 2025 <br />
+</p>
 </li>
-<li><p><a href="https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal">Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations</a> <br />
-<b>X. Jiang</b>, Y. Sun, M. S. Andersen, and L. Vandenberghe, 2023</p>
+<li><p><a href="https://orbit.dtu.dk/en/publications/minimum-rank-positive-semidefinite-matrix-completion-with-chordal" target=&ldquo;blank&rdquo;>Minimum-rank positive semidefinite matrix completion with chordal patterns and applications to semidefinite relaxations</a> <br />
+<b>X. Jiang</b>, Y. Sun, M. S. Andersen, and L. Vandenberghe, 2023
+</p>
 </li>
-<li><p><a href="https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf">Bregman primal-dual first-order method and application to sparse semidefinite programming</a> <br />
-<b>X. Jiang</b>, and L. Vandenberghe, 2022</p>
+<li><p><a href="https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf" target=&ldquo;blank&rdquo;>Bregman primal-dual first-order method and application to sparse semidefinite programming</a> <br />
+<b>X. Jiang</b>, and L. Vandenberghe, 2022
+</p>
 </li>
 </ul>
 <h1>Proximal methods with Bregman distances</h1>
-<p>Proximal methods have become a standard tool for solving nonsmooth, constrained, large-scale or distributed optimization probelms. To further improve the efficiency in computation of proximal operators, I am particularly interested in generalized proximal operators based on Bregman distances. Carefully designed Bregman proximal operators can better match the structure of the problem, thus improving the convergence rate of the proximal algorithms. A Bregman proximal operator can also be easier to compute than its Euclidean counterpart, thereby reducing the per-iteration complexity of a proximal algorithm.</p>
+<p>Proximal methods have become a standard tool for solving nonsmooth, constrained, large-scale or distributed optimization probelms. To further improve the efficiency in computation of proximal operators, I am particularly interested in generalized proximal operators based on Bregman distances. Carefully designed Bregman proximal operators can better match the structure of the problem, thus improving the convergence rate of the proximal algorithms. A Bregman proximal operator can also be easier to compute than its Euclidean counterpart, thereby reducing the per-iteration complexity of a proximal algorithm.
+</p>
 <table class="imgtable"><tr><td>
 <img src="research/breg-3op.jpg" alt="alt text" width="850px" height="230px" />&nbsp;</td>
 <td align="left"></td></tr></table>
-<p>Selected publications</p>
+<p>Selected publications
+</p>
 <ul>
-<li><p>Primal-dual proximal methods for self-dual conic linear programs <br />
-<b>X. Jiang</b>, J. Shao, and L. Vandenberghe, 2024+</p>
+<li><p><a href="https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf" target=&ldquo;blank&rdquo;>Bregman three-operator splitting methods</a> <br />
+<b>X. Jiang</b>, and L. Vandenberghe, 2023
+</p>
 </li>
-<li><p><a href="https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf">Bregman three-operator splitting methods</a> <br />
-<b>X. Jiang</b>, and L. Vandenberghe, 2023</p>
-</li>
-<li><p><a href="https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf">Bregman primal-dual first-order method and application to sparse semidefinite programming</a> <br />
-<b>X. Jiang</b>, and L. Vandenberghe, 2022</p>
+<li><p><a href="https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf" target=&ldquo;blank&rdquo;>Bregman primal-dual first-order method and application to sparse semidefinite programming</a> <br />
+<b>X. Jiang</b>, and L. Vandenberghe, 2022
+</p>
 </li>
 </ul>
 <h1>Constrained stochastic optimization</h1>
-<p>My research focuses on the design, analysis and implementation of efficient and reliable algorithms for solving large-scale nonlinear optimization problems, especially when only stochastic estimates of objective gradients (rather than true gradients) are accessible.</p>
+<p>My research focuses on the design, analysis and implementation of efficient and reliable algorithms for solving large-scale nonlinear optimization problems, especially when only stochastic estimates of objective gradients (rather than true gradients) are accessible.
+</p>
 <table class="imgtable"><tr><td>
 <img src="research/sqp-analysis.jpg" alt="alt text" width="800px" height="250px" />&nbsp;</td>
 <td align="left"></td></tr></table>
-<p>Selected publications:</p>
+<p>Selected publications:
+</p>
 <ul>
-<li><p><a href="publications/slip.pdf">Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization</a> <br />
-F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2024</p>
+<li><p><a href="publications/slip.pdf" target=&ldquo;blank&rdquo;>Single-loop deterministic and stochastic interior-point algorithms for nonlinearly constrained optimization</a> <br />
+F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2024
+</p>
 </li>
-<li><p><a href="publications/sqp-analysis.pdf">Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization</a> <br />
-F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2023</p>
+<li><p><a href="publications/sqp-analysis.pdf" target=&ldquo;blank&rdquo;>Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization</a> <br />
+F. E. Curtis, <b>X. Jiang</b>, and Q. Wang, 2023
+</p>
 </li>
 </ul>
 <h1>Machine learning for graphical data</h1>
-<p>My research in this direction aims at building a data-centric, scalable, and robust graph representation model. My recent research interests involve graph representation models with fairness and privacy concerns.</p>
+<p>My research in this direction aims at building a data-centric, scalable, and robust graph representation model. My recent research interests involve graph representation models with fairness and privacy concerns.
+</p>
 <table class="imgtable"><tr><td>
 <img src="research/apt.jpg" alt="alt text" width="800px" height="450px" />&nbsp;</td>
 <td align="left"></td></tr></table>
-<p>Selected publications:</p>
+<p>Selected publications:
+</p>
 <ul>
 <li><p>Extracting training data from molecular pre-trained models [NeurIPS&rsquo;24] <br />
-R. Huang, J. Xu, Z. Yang, X. Si, <b>X. Jiang</b>, H. Yuan, C. Wang, and Y. Yang</p>
+R. Huang, J. Xu, Z. Yang, X. Si, <b>X. Jiang</b>, H. Yuan, C. Wang, and Y. Yang
+</p>
 </li>
-<li><p><a href="publications/gda-kdd24.pdf">Can modifying data address graph domain adaptation?</a> [KDD&rsquo;24] <br />
-R. Huang, J. Xu, <b>X. Jiang</b>, R. An, and Y. Yang <br /></p>
+<li><p><a href="publications/gda-kdd24.pdf" target=&ldquo;blank&rdquo;>Can modifying data address graph domain adaptation?</a> [KDD&rsquo;24] <br />
+R. Huang, J. Xu, <b>X. Jiang</b>, R. An, and Y. Yang <br />
+</p>
 </li>
-<li><p><a href="publications/better-w-less-neurips23.pdf">Better with less: A data-active perspective on pre-training graph neural networks</a> [NeurIPS&rsquo;23] <br />
-J. Xu, R. Huang, <b>X. Jiang</b>, Y. Cao, C. Yang, C. Wang, and Y. Yang <br /></p>
+<li><p><a href="publications/better-w-less-neurips23.pdf" target=&ldquo;blank&rdquo;>Better with less: A data-active perspective on pre-training graph neural networks</a> [NeurIPS&rsquo;23] <br />
+J. Xu, R. Huang, <b>X. Jiang</b>, Y. Cao, C. Yang, C. Wang, and Y. Yang <br />
+</p>
 </li>
 </ul>
 </td>
