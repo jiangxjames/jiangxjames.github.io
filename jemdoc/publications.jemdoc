@@ -4,7 +4,10 @@
 See also [https://scholar.google.com/citations?hl=en&user=zs_h9Y4AAAAJ&view_op=list_works&sortby=pubdate Google Scholar].
 
 == Preprints
-. A relaxation and rectification (ReCR) framework for systems with linear and complementarity constraints: theoretical foundations, algorithms and numerical experiments \n
+. [publications/pdhg-sdp.pdf Local linear convergence of the primal-dual hybrid gradient method for semidefinite programming] \n
+*X. Jiang* \n
+Preprint, 2026. \[[https://arxiv.org/abs/2607.08035 arXiv]\] \[[https://github.com/NumOptLab/pdhg-sdp-linear-conv code]\]
+. [publications/recr-lcp.pdf A relaxation and rectification (ReCR) framework for systems with linear and complementarity constraints: theoretical foundations, algorithms and numerical experiments] \n
 W. AlAli, *X. Jiang*, J. Peng \n
 Preprint, 2026. \[[https://arxiv.org/abs/2606.28563 arXiv]\]
 . [publications/swap-dys.pdf Exact worst-case convergence rates for Douglas-Rachford and Davis-Yin splitting methods] \n
@@ -12,7 +15,7 @@ E. D. H. Nguyen, J. J. Suh, *X. Jiang*, S. Ma \n
 Preprint, 2025. \[[https://arxiv.org/abs/2506.23475 arXiv]\]
 . [publications/admm-sdp.pdf Local linear convergence of the alternating direction method of multipliers for semidefinite programming under strict complementarity] \n
 S. Kang, *X. Jiang*, and H. Yang \n
-Preprint, 2025. \[[https://arxiv.org/abs/2503.20142 arXiv]\]
+Preprint, 2025. \[[https://arxiv.org/abs/2503.20142 arXiv]\] \[[https://github.com/ComputationalRobotics/admmsdp-linearconv code]\]
 
 == Journal articles
 . [publications/slip.pdf A single-loop stochastic feasible interior-point algorithm for nonlinear inequality-constrained optimization] \n
