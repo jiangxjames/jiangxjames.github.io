@@ -7,10 +7,10 @@ See also [https://scholar.google.com/citations?hl=en&user=zs_h9Y4AAAAJ&view_op=l
 . [publications/sd.pdf Bregman primal-dual methods for conic linear optimization via
 exact-penalty and self-dual formulations] \n
 *X. Jiang*, Justin Shao, and Lieven Vandenebrghe \n
-Preprint, 2026.
+Preprint, 2026. \[[https://arxiv.org/abs/2611.21427]\]
 . [publications/pdhg-sdp.pdf Local linear convergence of the primal-dual hybrid gradient method for semidefinite programming] \n
 *X. Jiang* \n
-Preprint, 2026. \[[https://arxiv.org/abs/2607.08035 arXiv]\] \[[https://github.com/NumOptLab/pdhg-sdp-linear-conv code]\]
+Preprint, 2026. \[[https://arxiv.org/abs/2607.08035 arXiv]\] \[[https://github.com/NumOptLab/splitting-sdp/tree/pdhg-sdp-v1.0 code]\]
 . [publications/recr-lcp.pdf A relaxation and rectification (ReCR) framework for systems with linear and complementarity constraints: theoretical foundations, algorithms and numerical experiments] \n
 W. AlAli, *X. Jiang*, and J. Peng \n
 Preprint, 2026. \[[https://arxiv.org/abs/2606.28563 arXiv]\]
